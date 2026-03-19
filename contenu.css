@@ -1,0 +1,26 @@
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 90%;  
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 15px;
+    color: #333;
+    font-size: 16px;
+}
+article {
+    border-bottom: 10px solid #385CA8;
+    padding: 10px;
+}
+
+hr {
+    display: none;
+}
+article h1 {
+    color:  #365CA8;
+    font-variant: small-caps;
+    background-color: #ebecf8;
+    padding: 10px;
+}
